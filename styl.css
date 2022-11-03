@@ -1,0 +1,27 @@
+
+
+section{
+    
+    width: 100%;
+}
+
+
+img{
+    margin-top: 200px;
+    width: 300px;
+    margin-left: 300px;
+    /*display: block;*/
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 0px;
+    border: 1px solid black;
+    padding: 20px;
+
+}
+
+
+
+
+
+
+
